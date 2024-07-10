@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tus/tus-js-client.git"
+    "url": "https://github.com/loren-m-crawford/tus-js-client.git"
   },
   "keywords": ["tus", "resumable", "upload", "protocol", "progress", "file", "browser"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tus/tus-js-client/issues"
   },
-  "homepage": "https://github.com/tus/tus-js-client",
+  "homepage": "https://github.com/loren-m-crawford/tus-js-client",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.13.10",
